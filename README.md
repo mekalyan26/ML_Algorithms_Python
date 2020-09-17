@@ -1,2 +1,2 @@
-# Phython_ML_Projects
+# Python_ML_Projects
 Machine Learning Projects in Python
